@@ -30,8 +30,8 @@ Rock-Paper-Scissors/
 ├── script.js
 │
 └── image/
-    ├── rock-emoji.png
-    ├── paper-emoji.png
+    ├── Rock-emoji.png
+    ├── Paper-emoji.png
     └── Scissors-emoji.png
 ```
 
