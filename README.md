@@ -26,8 +26,8 @@ The player chooses Rock, Paper, or Scissors, and the computer generates its choi
 Rock-Paper-Scissors/
 │
 ├── index.html
-├── rockpaperscissorfinal.css
-├── rockpaperscissorfinal.js
+├── style.css
+├── script.js
 │
 └── image/
     ├── rock-emoji.png
