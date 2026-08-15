@@ -1,0 +1,39 @@
+.btn-move{
+      background-color: transparent;
+      border: 2px solid white;
+      border-radius: 50%;
+      width: 120px;
+      height: 120px;
+      margin-right: 10px;
+    }
+    .btn{
+      padding: 10px 10px;
+      font-size: 15px;
+    }
+    .img-move{
+      height: 50px;
+    }
+      body{
+      background-color: rgb(25, 25, 25);
+      color: white;
+      text-align:center;
+      margin-top: 100px;
+    }
+    .result{
+      margin-top: 40px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .you-computer{
+      margin-top: 40px; 
+      font-size: 20px;
+      font-family:Arial, Helvetica, sans-serif;
+      font-weight: 600;
+    }
+    .scores{
+      margin-top: 40px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      font-weight: 600;
+    }
